@@ -9,4 +9,4 @@ readme:
 	echo "** Number of lines on guessinggame.sh is: **" >> README.md 
 	cat ./guessinggame.sh | wc -l >> README.md
 	echo "" >> README.md
-	echo "![Task link](https://oscarolo.github.io/bash_make_git_github/)"
+	echo "![Task link](https://oscarolo.github.io/bash_make_git_github/)" >> README.md
